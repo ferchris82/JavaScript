@@ -14,3 +14,23 @@ console.log(`${a} == ${b} -> ${a == b}`);
 console.log(" a === b -> ", a === b);
 // String interpolation
 console.log(`${a} === ${b} -> ${a === b}`);
+
+// Operador distintos
+// compara valor y convierte el tipo de dato si es necesario
+console.log(`${a} != ${b} -> ${a != b}`);
+
+// Operador distinto pero exacto
+// Compara el valor y el tipo de dato
+console.log(`${a} !== ${b} -> ${a !== b}`);
+
+// Operador menor que
+console.log(`${a} < ${b} -> ${a < b}`);
+
+// Operador menor o igual que 
+console.log(`${a} <= ${b} -> ${a <= b}`);
+
+// Operador mayor que
+console.log(`${a} > ${b} -> ${a >b}`);
+
+// Operador mayor o igual que
+console.log(`${a} >= ${b} -> ${a >= b}`);
