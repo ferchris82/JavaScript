@@ -1,5 +1,5 @@
 // Dia de la semana 
-let diaSemana = 5; 
+let diaSemana = 3; 
 
 if (diaSemana == 1) {
     console.log('Lunes');
